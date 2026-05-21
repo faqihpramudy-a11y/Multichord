@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MultiChord</title>
+
+<style>
+body{
+background:#111;
+color:white;
+font-family:Arial;
+margin:0;
+}
+
+header{
+background:#1b1b1b;
+padding:20px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+header h1{
+color:#4ade80;
+}
+
+.container{
+padding:20px;
+}
+
+.song{
+background:#1b1b1b;
+padding:20px;
+border-radius:20px;
+}
+
+pre{
+white-space:pre-wrap;
+font-size:18px;
+line-height:1.8;
+overflow-x:auto;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>MultiChord</h1>
+<p>Kau Buat Jatuh Cinta - Kelompok 3</p>
+</header>
+
+<div class="container">
+<div class="song">
+
+<pre>
+Intro : C - G - F (x3)
+
+[Verse 1]
+
+C               G
+Aku datang pelan
+F
+Bawa sisa hari
+
+C                  G
+Kau sambut mataku
+F
+Seperti rumah lagi
+
+[Pre-Chorus]
+
+Dm
+Dan saat kau dekat
+C
+Semua jadi jelas
+
+Dm
+Langkahku yang ragu
+G
+Mulai bisa lepas
+
+[Chorus]
+
+C                 F
+Kau buat jatuh cinta
+C
+Kau buat ku percaya
+
+Dm                G
+Saat kau genggam tangan
+</pre>
+
+</div>
+</div>
+
+</body>
+</html>
